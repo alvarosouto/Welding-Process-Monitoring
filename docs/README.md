@@ -93,7 +93,7 @@ Below we detail the computation requirements for the user interfaces depicted in
 
 
 ## Installation Procedure
-One important point of the present solution is that is highly adpatable to the welding process and welding equipment of the client. Most of the SW would be provided to the client pre-installed in the HW selected for the specific use case. The SW interfaces (*capturer app* and *visualizer app*) to interact with the system are provided as standalone program files.
+One important point of the present solution is that is highly adpatable to the welding process and welding equipment of the client. Backend SW would be provided to the client pre-installed in the HW selected for the specific use case. The SW interfaces (*capturer app* and *visualizer app*) to interact with the system are provided as standalone program files.
 
 ## How To Use
 The welding operator should have access to a tablet or touch screen with *capturer app*. From this GUI, they can connect with the Welding Process Inspector and check the configuration of all sensors. Defect detection models are preloaded by manufacturer. From the GUI, operator can start and stop the welding monitoring and configure wich welding parameters and alerts visualize. When high probability of defects appearance is detected, alarmas are displayed to operator.
